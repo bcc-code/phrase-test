@@ -1,4 +1,5 @@
 {
     "test": "Test value",
-    "test2": "My new value"
+    "test2": "My new value",
+    "test3": "Third value"
 }
